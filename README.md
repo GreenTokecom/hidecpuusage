@@ -1,0 +1,2 @@
+# hidecpuusage
+Hide cpu usage
